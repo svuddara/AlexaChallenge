@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.visa.androidauthentication.authLib">
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <application
+        android:label="@string/app_name"
+        tools:replace="android:label" />
+
+</manifest>
